@@ -1,3 +1,6 @@
+![Tests](https://github.com/angelotano35-prod/saucedemo-test-automation/actions/workflows/tests.yml/badge.svg)
+
+
 # SauceDemo Test Automation Suite
 
 Automated end-to-end test suite for saucedemo.com built with Playwright and Python,
